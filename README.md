@@ -1,13 +1,25 @@
-# README
-## This is the README for your extension "one-dark-ocean"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# VSCode One Dark Ocean
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+VSCode theme based on [One Dark Ocean Syntax](https://github.com/juliancruzsanchez/one-dark-ocean-syntax) theme.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Installation through Marketplace
 
-**Enjoy!**
+You can install this theme through the Visual Studio Code [Marketplace](https://marketplace.visualstudio.com/items?itemName=GeorgeAidonidis.one-dark-ocean).
+
+## Installation through VSCode
+
+Launch _Quick Open_:
+
+- <img src="https://www.kernel.org/theme/images/logos/favicon.png" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf">Linux</a> `Ctrl+P`
+- <img src="https://developer.apple.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf">macOS</a> `⌘P`
+- <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf">Windows</a> `Ctrl+P`
+
+Paste the following command and press `Enter`:
+
+```sh
+ext install material theme
+```
+
+## Screenshots
+
+![media](https://i.imgur.com/buQUPkK.png)

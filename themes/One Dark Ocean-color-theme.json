@@ -1,5 +1,5 @@
 {
-  "name": "One Dark Ocean",
+  "name": "One Dark Ocean Theme",
   "type": "dark",
   "colors": {
     "activityBar.background": "#1d212e",
@@ -25,13 +25,13 @@
     "editor.wordHighlightBorder": "#7f848e",
     "editor.wordHighlightStrongBackground": "#abb2bf26",
     "editor.wordHighlightStrongBorder": "#7f848e",
-    "editorActiveLineNumber.foreground": "#737984",
+    "editorLineNumber.activeForeground": "#737984",
     "editorBracketMatch.background": "#515a6b",
     "editorBracketMatch.border": "#515a6b",
     "editorCursor.background": "#ffffffc9",
     "editorCursor.foreground": "#528bff",
     "editorError.foreground": "#c24038",
-    "editorGroup.background": "#181a1f",
+    "editorGroup.emptyBackground": "#181a1f",
     "editorGroup.border": "#181a1f",
     "editorGroupHeader.tabsBackground": "#1a1d25",
     "editorHoverWidget.background": "#21252b",
@@ -904,14 +904,14 @@
       "scope": "entity.other.attribute-name.class.css",
       "settings": {
         "foreground": "#D19A66",
-        "fontStyle": "normal"
+        "fontStyle": ""
       }
     },
     {
       "scope": "entity.other.attribute-name.id",
       "settings": {
         "foreground": "#52adf2",
-        "fontStyle": "normal"
+        "fontStyle": ""
       }
     },
     {

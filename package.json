@@ -1,21 +1,37 @@
 {
-    "name": "one-dark-ocean",
-    "displayName": "One Dark Ocean",
-    "description": "",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.45.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "One Dark Ocean",
-                "uiTheme": "vs-dark",
-                "path": "./themes/One Dark Ocean-color-theme.json"
-            }
-        ]
-    }
+	"publisher": "GeorgeAidonidis",
+  "name": "one-dark-ocean",
+  "displayName": "One Dark Ocean",
+  "description": "A dark theme with vivid colors based on One Dark.",
+	"icon": "logo.png",
+  "author": {
+    "name": "George Aidonidis",
+    "email": "george.aidonidis@gmail.com",
+    "url": "https://iamgeorge.dev"
+  },
+  "version": "0.0.1",
+  "bugs": {
+    "url": "https://github.com/george-aidonidis/vscode-one-dark-ocean/issues",
+    "email": "george.aidonidis+github@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/george-aidonidis/vscode-one-dark-ocean.git"
+  },
+  "homepage": "https://github.com/george-aidonidis/vscode-one-dark-ocean/README.md",
+  "engines": {
+    "vscode": "^1.45.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "One Dark Ocean",
+        "uiTheme": "vs-dark",
+        "path": "./themes/One Dark Ocean-color-theme.json"
+      }
+    ]
+  }
 }
