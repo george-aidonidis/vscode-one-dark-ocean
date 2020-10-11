@@ -1,15 +1,15 @@
 {
-	"publisher": "GeorgeAidonidis",
+  "publisher": "GeorgeAidonidis",
   "name": "one-dark-ocean",
   "displayName": "One Dark Ocean",
   "description": "A dark theme with vivid colors based on One Dark.",
-	"icon": "logo.png",
+  "icon": "logo.png",
   "author": {
     "name": "George Aidonidis",
     "email": "george.aidonidis@gmail.com",
     "url": "https://iamgeorge.dev"
   },
-  "version": "0.0.1",
+  "version": "0.1.0",
   "bugs": {
     "url": "https://github.com/george-aidonidis/vscode-one-dark-ocean/issues",
     "email": "george.aidonidis+github@gmail.com"
