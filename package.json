@@ -9,7 +9,7 @@
     "email": "george.aidonidis@gmail.com",
     "url": "https://iamgeorge.dev"
   },
-  "version": "0.1.1",
+  "version": "0.2.0",
   "bugs": {
     "url": "https://github.com/george-aidonidis/vscode-one-dark-ocean/issues",
     "email": "george.aidonidis+github@gmail.com"
@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/george-aidonidis/vscode-one-dark-ocean/README.md",
   "engines": {
-    "vscode": "^1.45.0"
+    "vscode": "^1.85.0"
   },
   "categories": [
     "Themes"
