@@ -26,3 +26,6 @@ You can install this theme through the Visual Studio Code [Marketplace](https://
 ![media](https://imgur.com/QFHNKq8.png)
 ![media](https://imgur.com/u6Opu0S.png)
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
